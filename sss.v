@@ -85,7 +85,7 @@ module V3(q, p, clk, reset);
 	if(reset) q <= 8;
 	else
 	case(p)
-		0: q <= 9;
+		0: q <= 8;
 		1: q <= 1;
 		2: q <= 5;
 		3: q <= 7;

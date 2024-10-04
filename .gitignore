@@ -1,2 +1,15 @@
 *~
 *#
+*.DLS
+*.acf
+*.cnf
+*.hif
+*.jam
+*.fit
+*.jbc
+*.mmf
+*.ndb
+*.pin
+*.pof
+*.rpt
+*.snf
